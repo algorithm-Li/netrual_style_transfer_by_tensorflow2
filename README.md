@@ -5,15 +5,14 @@ netrual style transfer picture
 
 给定一张内容图片和一张风格图片，生成一张具备内容图片内容+风格图片风格的图片。
 
-项目结构:
-
-*`--images`: path to content images and style images that you can choose.
-*`--output`: path for saving output images.
-*`--sameples`: some example of the pics that have been trained.
-*`--model.py`: the model which load the vgg-19 model.
-*`--utils.py`: process pictures.
-*`--setting.py`: parameter configuration file.
-*`--train.py`: train the picture.
+项目结构:  
+*`--images`: path to content images and style images that you can choose.  
+*`--output`: path for saving output images.  
+*`--sameples`: some example of the pics that have been trained.  
+*`--model.py`: the model which load the vgg-19 model.  
+*`--utils.py`: process pictures.  
+*`--setting.py`: parameter configuration file.  
+*`--train.py`: train the picture.  
 
 
 
