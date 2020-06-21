@@ -14,13 +14,14 @@ netrual style transfer picture
 *`--setting.py`: parameter configuration file.  
 *`--train.py`: train the picture.  
 
-
-
-
-
-
-
-
+example：  
+<p align="center">
+  <img src='samples/style107/style107.jpg' height="174px">
+  <img src='samples/style107/20.jpg' height="174px">
+  <br>
+  <img src='images/output-images/green.png' height="174px">
+  <img src='images/style-images/green.jpg' height="174px">
+</p>
 
 
 
