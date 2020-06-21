@@ -15,22 +15,31 @@ netrual style transfer picture
 *`--train.py`: train the picture.  
 
 example：  
+内容图片：  
+<img src='images/content.jpg' height="174px">  
+风格图片和对应训练生成的图片
 <p align="center">
   <img src='samples/style107/style107.jpg' height="174px">
   <img src='samples/style107/20.jpg' height="174px">
   <br>
-  <img src='images/output-images/green.png' height="174px">
-  <img src='images/style-images/green.jpg' height="174px">
+  <img src='samples/style100/style100.jpg' height="174px">
+  <img src='samples/style100/20.jpg' height="174px">
+  <br>
+  <img src='samples/style102/style102.jpg' height="174px">
+  <img src='samples/style102/20.jpg' height="174px">
+  <br>
+  <img src='samples/style105/style105.jpg' height="174px">
+  <img src='samples/style105/20.jpg' height="174px">
+  <br>
+  <img src='samples/style113/style113.jpg' height="174px">
+  <img src='samples/style113/20.jpg' height="174px">
+  <br>
+  <img src='samples/style117/style117.png' height="174px">
+  <img src='samples/style117/20.jpg' height="174px">
+  <br>
+  <img src='samples/style119/style.jpg' height="174px">
+  <img src='samples/style119/10.jpg' height="174px">
 </p>
-
-
-
-
-
-
-
-
-
 
 learn from :
 
