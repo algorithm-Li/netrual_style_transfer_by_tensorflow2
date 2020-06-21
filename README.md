@@ -31,7 +31,7 @@ example：
   <img src='samples/style105/style105.jpg' height="174px">
   <img src='samples/style105/20.jpg' height="174px">
   <br>
-  <img src='samples/style113/style113.jpg' height="174px">
+  <img src='samples/style113/style113.png' height="174px">
   <img src='samples/style113/20.jpg' height="174px">
   <br>
   <img src='samples/style117/style117.png' height="174px">
